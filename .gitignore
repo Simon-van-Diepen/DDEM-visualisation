@@ -1,5 +1,6 @@
 # Data folder
 Data/*
+Data_old/*
 
 # Apple stuff
 .DS_Store
