@@ -2,6 +2,7 @@
 Data/*
 Data_old/*
 *.zip
+Output/*
 
 # Apple stuff
 .DS_Store
