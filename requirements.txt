@@ -99,7 +99,7 @@ NBT==1.5.1
 nest-asyncio==1.5.7
 notebook==7.0.2
 notebook_shim==0.2.3
-numcodecs==0.11.0
+numcodecs==0.13.1
 numpy==1.25.2
 openpyxl==3.1.2
 overrides==7.4.0
